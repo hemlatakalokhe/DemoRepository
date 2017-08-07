@@ -6,11 +6,13 @@ public class Product {
     private String name;
     private double price;
     public int getId() {
-        System.out.println("Hello World");
+
         return this.id;
     }
+
     public void setId(final int id) {
         System.out.println("Hello World");
+
         this.id = id;
     }
     public String getName() {
@@ -24,6 +26,9 @@ public class Product {
     }
     public void setPrice(final double price) {
         this.price = price;
+
+        System.out.println("Hello World");
+
     }
 
 
