@@ -20,12 +20,12 @@ public class Product {
     }
     public void setName(final String name) {
         System.out.println("Hello World");
-
+        System.out.println("Hello World");
         this.name = name;
     }
     public double getPrice() {
         System.out.println("Hello World");
-
+        System.out.println("Hello World");
         return this.price;
     }
     public void setPrice(final double price) {
@@ -34,7 +34,4 @@ public class Product {
         System.out.println("Hello World");
 
     }
-
-
-
 }
