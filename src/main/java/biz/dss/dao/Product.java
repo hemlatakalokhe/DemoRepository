@@ -32,8 +32,10 @@ public class Product {
     }
     public void setPrice(final double price) {
         this.price = price;
-
         System.out.println("Hello World");
-
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
     }
 }
