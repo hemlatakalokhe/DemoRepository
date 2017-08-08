@@ -10,6 +10,7 @@ public class Product {
     }
 
     public void setId(final int id) {
+        System.out.println("Welcome");
         this.id = id;
     }
     public String getName() {
