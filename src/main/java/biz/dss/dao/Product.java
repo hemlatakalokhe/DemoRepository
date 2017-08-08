@@ -11,7 +11,7 @@ public class Product {
     }
 
     public void setId(final int id) {
-
+        System.out.println("Hello World");
         this.id = id;
     }
     public String getName() {
