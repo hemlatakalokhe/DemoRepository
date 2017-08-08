@@ -28,22 +28,6 @@ public class Product {
         System.out.println("Welcome");
         System.out.println("Welcome");
         System.out.println("Welcome");
-        System.out.println("Welcome");
-        System.out.println("Welcome");
-        System.out.println("Welcome");
-        System.out.println("Welcome");
-        System.out.println("Welcome");
-        System.out.println("Welcome");
-        System.out.println("Welcome");
-        System.out.println("Welcome");
-        System.out.println("Welcome");
-        System.out.println("Welcome");
-        System.out.println("Welcome");
-        System.out.println("Welcome");
-        System.out.println("Welcome");
-        System.out.println("Welcome");
-        System.out.println("Welcome");
-        System.out.println("Welcome");
         this.price = price;
     }
 }
