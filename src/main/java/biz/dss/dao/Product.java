@@ -1,6 +1,5 @@
 package biz.dss.dao;
 
-/*@Component*/
 public class Product {
     private int id;
     private String name;
