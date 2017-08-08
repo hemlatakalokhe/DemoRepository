@@ -23,6 +23,8 @@ public class Product {
     }
     public double getPrice() {
         System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
         return this.price;
     }
     public void setPrice(final double price) {
