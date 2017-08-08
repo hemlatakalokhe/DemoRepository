@@ -28,6 +28,8 @@ public class Product {
         return this.price;
     }
     public void setPrice(final double price) {
+        System.out.println("Hello World");
+        System.out.println("Hello World");
         this.price = price;
     }
 }
