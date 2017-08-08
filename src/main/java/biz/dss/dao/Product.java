@@ -20,12 +20,18 @@ public class Product {
     public void setName(final String name) {
         System.out.println("Hello World");
         System.out.println("Hello World");
+<<<<<<< HEAD
         System.out.println("Hello World");
         System.out.println("Hello World");
         System.out.println("Hello World");
         System.out.println("Hello World");
         System.out.println("Hello World");
         System.out.println("Hello World");
+||||||| merged common ancestors
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+=======
+>>>>>>> master
         this.name = name;
     }
     public double getPrice() {
