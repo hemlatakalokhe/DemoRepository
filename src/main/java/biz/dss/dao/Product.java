@@ -20,13 +20,25 @@ public class Product {
         this.name = name;
     }
     public double getPrice() {
-        System.out.println("Welcome");
-        System.out.println("Welcome");
-        System.out.println("Welcome");
-        System.out.println("Welcome");
         return this.price;
     }
     public void setPrice(final double price) {
+        System.out.println("Welcome");
+        System.out.println("Welcome");
+        System.out.println("Welcome");
+        System.out.println("Welcome");
+        System.out.println("Welcome");
+        System.out.println("Welcome");
+        System.out.println("Welcome");
+        System.out.println("Welcome");
+        System.out.println("Welcome");
+        System.out.println("Welcome");
+        System.out.println("Welcome");
+        System.out.println("Welcome");
+        System.out.println("Welcome");
+        System.out.println("Welcome");
+        System.out.println("Welcome");
+        System.out.println("Welcome");
         System.out.println("Welcome");
         System.out.println("Welcome");
         System.out.println("Welcome");
