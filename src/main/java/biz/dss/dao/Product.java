@@ -23,6 +23,7 @@ public class Product {
         return this.price;
     }
     public void setPrice(final double price) {
+        System.out.println("Welcome");
         this.price = price;
     }
 }
