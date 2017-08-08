@@ -22,6 +22,10 @@ public class Product {
         System.out.println("Hello World");
         System.out.println("Hello World");
         System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
         this.name = name;
     }
     public double getPrice() {
