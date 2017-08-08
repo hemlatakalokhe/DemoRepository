@@ -17,6 +17,9 @@ public class Product {
         return this.name;
     }
     public void setName(final String name) {
+        System.out.println("Welcome");
+        System.out.println("Welcome");
+        System.out.println("Welcome");
         this.name = name;
     }
     public double getPrice() {
