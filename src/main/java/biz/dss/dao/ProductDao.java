@@ -61,6 +61,8 @@ public class ProductDao {
                 product.setName(rs.getString(2));
                 product.setPrice(rs.getDouble(3));
                 System.out.println(product);
+                System.out.println(product.getName());
+                System.out.println(product.getPrice());
                 return product;
             }
 
