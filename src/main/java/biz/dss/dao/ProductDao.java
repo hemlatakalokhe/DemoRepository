@@ -54,12 +54,13 @@ public class ProductDao {
         class ProductMapper implements RowMapper<Product> {
 
             public Product mapRow(final ResultSet rs, final int index) throws SQLException {
-
+                System.out.println(rs);
+                System.out.println(index);
                 final Product product = new Product();
                 product.setId(rs.getInt(1));
                 product.setName(rs.getString(2));
                 product.setPrice(rs.getDouble(3));
-
+                System.out.println(product);
                 return product;
             }
 
