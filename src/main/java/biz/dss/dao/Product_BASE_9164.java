@@ -17,9 +17,6 @@ public class Product {
         return this.name;
     }
     public void setName(final String name) {
-        System.out.println("Welcome");
-        System.out.println("Welcome");
-        System.out.println("Welcome");
         this.name = name;
     }
     public double getPrice() {
@@ -27,15 +24,6 @@ public class Product {
     }
     public void setPrice(final double price) {
         System.out.println("Welcome");
-<<<<<<< HEAD
-        System.out.println("Welcome");
-        System.out.println("Welcome");
-        System.out.println("Welcome");
-        System.out.println("Welcome");
-||||||| merged common ancestors
-=======
-        this.name=this.name;
->>>>>>> master
         this.price = price;
     }
 }

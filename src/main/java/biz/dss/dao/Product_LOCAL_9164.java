@@ -27,15 +27,10 @@ public class Product {
     }
     public void setPrice(final double price) {
         System.out.println("Welcome");
-<<<<<<< HEAD
         System.out.println("Welcome");
         System.out.println("Welcome");
         System.out.println("Welcome");
         System.out.println("Welcome");
-||||||| merged common ancestors
-=======
-        this.name=this.name;
->>>>>>> master
         this.price = price;
     }
 }
