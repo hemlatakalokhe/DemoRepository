@@ -14,12 +14,12 @@ public class Product {
         this.id = id;
     }
     public String getName() {
+        System.out.println("Welcome");
+        System.out.println("Welcome");
+        System.out.println("Welcome");
         return this.name;
     }
     public void setName(final String name) {
-        System.out.println("Welcome");
-        System.out.println("Welcome");
-        System.out.println("Welcome");
         this.name = name;
     }
     public double getPrice() {
@@ -28,6 +28,9 @@ public class Product {
     public void setPrice(final double price) {
         System.out.println("Welcome");
         this.name=this.name;
+        System.out.println("Welcome");
+        System.out.println("Welcome");
+        System.out.println("Welcome");
         this.price = price;
     }
 }
