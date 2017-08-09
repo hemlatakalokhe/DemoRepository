@@ -27,6 +27,7 @@ public class Product {
     }
     public void setPrice(final double price) {
         System.out.println("Welcome");
-      this.name=this.name;        this.price = price;
+        this.name=this.name;
+        this.price = price;
     }
 }
