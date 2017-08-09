@@ -11,10 +11,6 @@ public class Product {
 
     public void setId(final int id) {
         System.out.println("Welcome");
-        System.out.println("Welcome");
-        System.out.println("Welcome");
-        System.out.println("Welcome");
-        System.out.println("Welcome");
         this.id = id;
     }
     public String getName() {
@@ -30,6 +26,8 @@ public class Product {
         return this.price;
     }
     public void setPrice(final double price) {
+        System.out.println("Welcome");
+        System.out.println("Welcome");
         System.out.println("Welcome");
         this.name=this.name;
         this.price = price;
